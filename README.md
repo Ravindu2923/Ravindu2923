@@ -31,6 +31,6 @@ I'm always looking to improve my skills and take on new challenges. I'm currentl
 ## 🔗 Connect With Me
 
 * **Email:** `ravindu2923@gmail.com` 
-* **LinkedIn:** https://www.linkedin.com/in/ravindu2923/
+* **LinkedIn:** `https://www.linkedin.com/in/ravindu2923`
 
 "The only way to do great work is to love what you do."
