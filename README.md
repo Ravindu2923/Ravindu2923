@@ -1,36 +1,22 @@
-# Hi there, I'm Ravindu! 👋
+# Hi there 👋 I'm Ravindu!
 
-A web developer from Sri Lanka with a passion for building clean and functional websites.
+**Full Stack Web Developer**
 
-## 💻 About Me
+---
 
-I specialize in Web, Shopify, and WordPress development.
+## 🚀 Tech Stack & Skills
 
-## 🛠️ My Skills & Interests
+- **Frontend:** HTML, CSS, TailwindCSS, JavaScript, React
+- **Backend:** PHP, Laravel
+- **Database:** SQL, MySQL
+- **E-commerce:** Shopify
+- **CMS:** WordPress
+- **Design:** UX/UI Design
 
-- Development: Web, Shopify, WordPress
-- Design: UX/UI Design
+---
 
-## 💻 My Tech Stack
+## 🎓 About Me
 
-- HTML
-- CSS
-- TailwindCSS
-- JavaScript
-- React
-- PHP
-- Laravel
-- SQL
-- MySQL
-- Liquid
-
-## 🌱 Current Focus
-
-I'm always looking to improve my skills and take on new challenges. I'm currently focused on building innovative projects and expanding my knowledge in web development.
-
-## 🔗 Connect With Me
-
-* **Email:** ravindu2923@gmail.com 
-* **LinkedIn:** https://www.linkedin.com/in/ravindu2923
-
-"The only way to do great work is to love what you do."
+- Passionate about building scalable web apps and beautiful user interfaces
+- Currently expanding my skills in modern frameworks and cloud technologies
+- Always eager to learn, collaborate, and contribute to open source
