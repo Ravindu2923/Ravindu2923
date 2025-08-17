@@ -15,8 +15,8 @@ Design: UX/UI Design
 
 - HTML
 - CSS
-- JavaScript
 - TailwindCSS
+- JavaScript
 - React
 - PHP
 - Laravel
