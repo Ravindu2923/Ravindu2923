@@ -8,8 +8,8 @@ I specialize in Web, Shopify, and WordPress development.
 
 ## 🛠️ My Skills & Interests
 
-Development: Web, Shopify, WordPress
-Design: UX/UI Design
+- Development: Web, Shopify, WordPress
+- Design: UX/UI Design
 
 ## 💻 My Tech Stack
 
