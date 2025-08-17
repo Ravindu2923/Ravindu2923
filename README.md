@@ -1,6 +1,6 @@
 # Hi there 👋 I'm Ravindu!
 
-**Full Stack Web Developer**
+**A dedicated developer specializing in Custom Websites, Shopify, and WordPress. I enjoy building dynamic and user-friendly websites.**
 
 ---
 
