@@ -1,6 +1,6 @@
 # Hi there 👋 I'm Ravindu!
 
-**I enjoy building dynamic and user-friendly websites.**
+**I enjoy building dynamic and user-friendly Web Applications.**
 
 ---
 
